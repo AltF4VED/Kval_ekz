@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllLibrary", "DllLibrary\DllLibrary.csproj", "{64F9E25C-09FC-4A12-8D42-08EC092212A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProgram", "MainProgram\MainProgram.csproj", "{229DED5F-885D-49A3-81C0-07F946AEB1A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64F9E25C-09FC-4A12-8D42-08EC092212A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F9E25C-09FC-4A12-8D42-08EC092212A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F9E25C-09FC-4A12-8D42-08EC092212A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F9E25C-09FC-4A12-8D42-08EC092212A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229DED5F-885D-49A3-81C0-07F946AEB1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229DED5F-885D-49A3-81C0-07F946AEB1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229DED5F-885D-49A3-81C0-07F946AEB1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229DED5F-885D-49A3-81C0-07F946AEB1A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33C77C21-58C5-43ED-93FF-6F0D077B7E32}
+	EndGlobalSection
+EndGlobal
